@@ -46,7 +46,7 @@ function NavBar() {
               fontSize: '28px',
             }}
           >
-            Priyanshu
+            PRIYANSHU GUPTA
           </p>
         </Navbar.Brand>
         <Navbar.Toggle
