@@ -52,12 +52,27 @@ function Resume() {
           <Col md={6} className="resume-right">
             <h3 className="resume-title">Certifications</h3>
             <Resumecontent
-              
+              title="Infosys Internship Certificate"
               content={[
-                "Infosys Internship Certificate - Infosys SpringBoot Internship 5.0",
-                "Infosys Certified - Programming using Java",
-                "AWS Academy - Graduate AWS Academy Cloud Foundations",
-                "HP Certificate - IT for Business Success",
+                "Infosys SpringBoot Internship 5.0",
+              ]}
+            />
+                <Resumecontent
+              title="Infosys Certificate"
+              content={[
+                "Programming using Java",
+              ]}
+            />
+                <Resumecontent
+              title="AWS Academy"
+              content={[
+                "Graduate AWS Academy Cloud Foundations",
+              ]}
+            />
+                <Resumecontent
+              title="HP Certificate"
+              content={[
+                "IT for Business Success",
               ]}
             />
           </Col>
