@@ -29,7 +29,21 @@ function Resume() {
               date="2021 - 2025"
               content={[
                 `CGPA: 7.61/10 `,
-                "Currently I am pursuing my Bachelor of Technology from Technocrats Institute Of Technology, Bhopal [ M.P ].",
+                "I am pursuing my Bachelor of Technology from Technocrats Institute Of Technology, Bhopal [ M.P ].",
+              ]}
+            />
+                <Resumecontent
+              title="CLASS XIITH (HIGHER SECONDARY)"
+              date="2021"
+              content={[
+                `Percentage: 65.40 % `,
+              ]}
+            />
+                <Resumecontent
+              title="CLASS XTH (SECONDARY)"
+              date="2019"
+              content={[
+                `Percentage: 52.40 % `,
               ]}
             />
           </Col>
@@ -38,8 +52,10 @@ function Resume() {
             <Resumecontent
               
               content={[
-                "AWS Academy - Graduate AWS Academy Cloud Foundations",
+                "Infosys Internship Certificate - Infosys SpringBoot Internship 5.0",
                 "Infosys Certified - Programming using Java",
+                "AWS Academy - Graduate AWS Academy Cloud Foundations",
+                "HP Certificate - IT for Business Success",
               ]}
             />
           </Col>
