@@ -28,7 +28,7 @@ function Resume() {
               title="Information Technology [ T.I.T ]"
               date="2021 - 2025"
               content={[
-                `CGPA: 7.50/10 `,
+                `CGPA: 7.61/10 `,
                 "Currently I am pursuing my Bachelor of Technology from Technocrats Institute Of Technology, Bhopal [ M.P ].",
               ]}
             />
