@@ -26,7 +26,7 @@ function Resume() {
             <h3 className="resume-title">Education</h3>
             <Resumecontent
               title="Information Technology [ T.I.T ]"
-              date={ justifyContent: "center","2021 - 2025"}
+              date="2021 - 2025"
               content={[
                 `CGPA: 7.61/10 `,
                 "I am pursuing my Bachelor of Technology from Technocrats Institute Of Technology, Bhopal [ M.P ].",
