@@ -36,6 +36,7 @@ function Resume() {
               title="CLASS XIITH (HIGHER SECONDARY)"
               date="2021"
               content={[
+                "Arunanchal Public School , Seoni",
                 `Percentage: 65.40 % `,
               ]}
             />
@@ -43,6 +44,7 @@ function Resume() {
               title="CLASS XTH (SECONDARY)"
               date="2019"
               content={[
+                "Arunanchal Public School , Seoni",
                 `Percentage: 52.40 % `,
               ]}
             />
