@@ -54,7 +54,7 @@ function Resume() {
             <Resumecontent
               title="Infosys Internship Certificate"
               content={[
-                "Infosys SpringBoot Internship 5.0",
+                "Infosys SpringBoard Internship 5.0",
               ]}
             />
                 <Resumecontent
